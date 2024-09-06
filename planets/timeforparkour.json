@@ -1,0 +1,487 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "time for parkour",
+	"starSystem": "GettingOuterItSystem",
+	"AmbientLights": [
+		{
+			"outerRadius": 500.0,
+			"innerRadius": 90.0,
+			"intensity": 1.6,
+			"position": {}
+		}
+	],
+	"Atmosphere": {
+		"hasOxygen": true,
+		"size": 400.0,
+		"useAtmosphereShader": true
+	},
+	"Base": {
+		"gravityFallOff": "linear",
+		"groundSize": 1.0,
+		"surfaceGravity": 20.0,
+		"surfaceSize": 400.0
+	},
+	"MapMarker": {
+		"minDisplayDistanceOverride": -1.0,
+		"maxDisplayDistanceOverride": -1.0
+	},
+	"Orbit": {
+		"primaryBody": "this star's pretty small",
+		"orbitLineFadeEndDistance": -1.0,
+		"orbitLineFadeStartDistance": -1.0,
+		"semiMajorAxis": 5000.0
+	},
+	"Props": {
+		"details": [
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_GD/Interactables_GDState/GDState_Quantum_Objects/Quantum_TreeClump_1/Rock_Tree",
+				"rotation": {
+					"x": 2.72210217,
+					"y": 331.7934,
+					"z": 305.30954
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 141.232269,
+					"y": 115.468269,
+					"z": 81.97883
+				}
+			},
+			{
+				"path": "RingWorld_Body/Sector_RingInterior/Sector_Zone2/Sector_ProjectionHouse_Zone2/Geo_ProjectionHouse_Zone2/Bridge_ProjectionHouse_Zone2_Intact",
+				"rotation": {
+					"x": 334.388245,
+					"y": 160.023315,
+					"z": 61.56578
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 141.1805,
+					"y": 114.538483,
+					"z": 84.95716
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Interactables_Village/LaunchTower/Effects_HEA_Campfire",
+				"rotation": {
+					"x": 339.833771,
+					"y": 156.92511,
+					"z": 62.2007561
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 135.232468,
+					"y": 107.6219,
+					"z": 100.058182
+				}
+			},
+			{
+				"path": "RingWorld_Body/Sector_RingInterior/Sector_Zone2/Structures_Zone2/EyeTempleRuins_Zone2/Interactables_EyeTempleRuins_Zone2/Prefab_IP_FuelTorch/",
+				"rotation": {
+					"x": 336.8389,
+					"y": 158.6467,
+					"z": 61.56499
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 136.011581,
+					"y": 105.55246,
+					"z": 100.707169
+				}
+			},
+			{
+				"path": "RingWorld_Body/Sector_RingInterior/Sector_Zone4/Sector_BlightedShore/Sector_ProjectionHouse_Zone4",
+				"rotation": {
+					"x": 349.15918,
+					"y": 299.471,
+					"z": 312.9491
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 161.69931,
+					"y": 114.645004,
+					"z": 73.92314
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Interactables_TH/MineShaft/MineElevator/",
+				"rotation": {
+					"x": 298.2312,
+					"y": 232.040176,
+					"z": 23.3430157
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 173.394516,
+					"y": 109.424377,
+					"z": 91.12228
+				}
+			},
+			{
+				"path": "Moon_Body/Sector_THM/Interactables_THM/Prefab_HEA_Recorder",
+				"rotation": {
+					"x": 297.192871,
+					"y": 237.933624,
+					"z": 18.12439
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 172.33429,
+					"y": 111.781761,
+					"z": 90.64038
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_EYE/Interactables_EYEState/EYEState_QuantumObjects/EYE_Q_Arch_B/EYE_Q_ArchB/Rocks_EYE_Arch_B",
+				"rotation": {
+					"x": 319.6999,
+					"y": 192.439865,
+					"z": 53.9582672
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 180.048935,
+					"y": 81.24125,
+					"z": 125.545731
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 30.6309185,
+					"y": 289.836365,
+					"z": 318.832581
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 143.464874,
+					"y": 115.565918,
+					"z": 84.3077545
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 346.038483,
+					"y": 247.405029,
+					"z": 311.872
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 161.191208,
+					"y": 108.012558,
+					"z": 84.444725
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 343.8259,
+					"y": 206.287064,
+					"z": 101.293327
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 170.878143,
+					"y": 112.007225,
+					"z": 78.5664
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_1/Crater_1_QRedwood/QRedwood (2)/Prefab_TH_Redwood",
+				"rotation": {
+					"x": 14.1030855,
+					"y": 302.239075,
+					"z": 202.807312
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 180.296066,
+					"y": 112.854523,
+					"z": 97.06018
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_NorthHemisphere/Sector_NorthPole/Sector_HangingCity/Sector_HangingCity_BlackHoleForge/BlackHoleForgePivot/Props_BlackHoleForge/Prefab_NOM_Shelf (2)/Strucutre_NOM_Shelf",
+				"rotation": {
+					"x": 302.007477,
+					"y": 196.29303,
+					"z": 223.9212
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 181.697449,
+					"y": 108.415749,
+					"z": 97.14864
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_GravityCannon/Interactables_GravityCannon/Prefab_NOM_TractorBeam",
+				"rotation": {
+					"x": 331.945068,
+					"y": 249.653931,
+					"z": 58.7078476
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 187.839371,
+					"y": 83.1063,
+					"z": 116.032463
+				}
+			},
+			{
+				"path": "StatueIsland_Body/Sector_StatueIsland/Interactables_StatueIsland/CenterRuin/Structure_NOM_ProbeFloor_StatueIsland",
+				"rotation": {
+					"x": 333.712158,
+					"y": 128.3056,
+					"z": 261.764465
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 183.701874,
+					"y": 85.75469,
+					"z": 116.421471
+				}
+			},
+			{
+				"path": "RingWorld_Body/Sector_RingInterior/Sector_Zone2/Sector_ProjectionHouse_Zone2/Geo_ProjectionHouse_Zone2/Bridge_ProjectionHouse_Zone2_Intact",
+				"rotation": {
+					"x": 295.927246,
+					"y": 147.394333,
+					"z": 82.69249
+				},
+				"position": {
+					"x": 194.264618,
+					"y": 82.65341,
+					"z": 126.165894
+				}
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_GravityCannon/Geometry_GravityCannon/ControlledByProxy_Arch/Structure_NOM_GravityCannon_HT",
+				"rotation": {
+					"x": 294.3554,
+					"y": 148.112518,
+					"z": 81.47588
+				},
+				"position": {
+					"x": 190.659637,
+					"y": 67.2670441,
+					"z": 131.9517
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/IceShard_Arrangment_2/DB_IceShard_Arrangment_2/IceGeo",
+				"rotation": {
+					"x": 325.1552,
+					"y": 118.669746,
+					"z": 9.810113
+				},
+				"position": {
+					"x": 187.071289,
+					"y": 73.1067657,
+					"z": 135.149429
+				}
+			},
+			{
+				"path": "Shuttle_Body/Prefab_NOM_Shuttle/Sector_NomaiShuttleInterior/Props_NomaiShuttleInterior/Prefab_NOM_NomaiTree_VarDRY_3",
+				"rotation": {
+					"x": 332.167175,
+					"y": 178.965744,
+					"z": 336.1344
+				},
+				"position": {
+					"x": 193.92514,
+					"y": 73.52881,
+					"z": 141.06955
+				}
+			},
+			{
+				"path": "Shuttle_Body/Prefab_NOM_Shuttle/Sector_NomaiShuttleInterior/Props_NomaiShuttleInterior/Prefab_NOM_NomaiTree_VarDRY_3",
+				"rotation": {
+					"x": 326.357117,
+					"y": 159.312744,
+					"z": 346.2655
+				},
+				"position": {
+					"x": 193.112335,
+					"y": 74.2162247,
+					"z": 138.946121
+				}
+			},
+			{
+				"path": "Shuttle_Body/Prefab_NOM_Shuttle/Sector_NomaiShuttleInterior/Props_NomaiShuttleInterior/Prefab_NOM_NomaiTree_VarDRY_3",
+				"rotation": {
+					"x": 316.441467,
+					"y": 168.213181,
+					"z": 337.476563
+				},
+				"position": {
+					"x": 195.999313,
+					"y": 72.5230942,
+					"z": 144.288391
+				}
+			},
+			{
+				"path": "RingWorld_Body/Sector_RingInterior/Sector_Zone2/Structures_Zone2/EyeTempleRuins_Zone2/Interactables_EyeTempleRuins_Zone2/Prefab_IP_FuelTorch/",
+				"rotation": {
+					"x": 349.995758,
+					"y": 260.465759,
+					"z": 22.1855373
+				},
+				"position": {
+					"x": 202.24791,
+					"y": 50.29384,
+					"z": 152.374863
+				}
+			},
+			{
+				"path": "Shuttle_Body/Prefab_NOM_Shuttle/Sector_NomaiShuttleInterior/Props_NomaiShuttleInterior/Prefab_NOM_NomaiTree_VarDRY_3",
+				"rotation": {
+					"x": 353.228455,
+					"y": 271.602783,
+					"z": 16.5129375
+				},
+				"position": {
+					"x": 205.357574,
+					"y": 49.32758,
+					"z": 151.732376
+				}
+			},
+			{
+				"path": "Shuttle_Body/Prefab_NOM_Shuttle/Sector_NomaiShuttleInterior/Props_NomaiShuttleInterior/Prefab_NOM_NomaiTree_VarDRY_3",
+				"rotation": {
+					"x": 352.650421,
+					"y": 273.582733,
+					"z": 16.2695351
+				},
+				"position": {
+					"x": 208.97084,
+					"y": 48.8258667,
+					"z": 151.390991
+				}
+			},
+			{
+				"path": "Shuttle_Body/Prefab_NOM_Shuttle/Sector_NomaiShuttleInterior/Props_NomaiShuttleInterior/Prefab_NOM_NomaiTree_VarDRY_3",
+				"rotation": {
+					"x": 2.48989415,
+					"y": 241.49353,
+					"z": 3.149701
+				},
+				"position": {
+					"x": 211.770538,
+					"y": 48.5911369,
+					"z": 151.202988
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 3.04703665,
+					"y": 271.763977,
+					"z": 358.677124
+				},
+				"position": {
+					"x": 218.282455,
+					"y": 48.6617622,
+					"z": 152.333054
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 19.9125042,
+					"y": 193.307236,
+					"z": 11.3578205
+				},
+				"position": {
+					"x": 220.453964,
+					"y": 50.8322754,
+					"z": 166.453033
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 34.9694748,
+					"y": 192.194061,
+					"z": 23.00368
+				},
+				"position": {
+					"x": 221.07457,
+					"y": 55.8811,
+					"z": 175.523376
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 44.56443,
+					"y": 211.928391,
+					"z": 61.18027
+				},
+				"position": {
+					"x": 223.967773,
+					"y": 62.27626,
+					"z": 182.489716
+				}
+			},
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_DB/Interactables_DBState/DBState_QuantumObjects/DB_JellyfishinIce/Jelly_Rock_Geo",
+				"rotation": {
+					"x": 34.6036339,
+					"y": 273.289856,
+					"z": 149.853226
+				},
+				"position": {
+					"x": 235.217484,
+					"y": 83.3420944,
+					"z": 187.255
+				}
+			}
+		],
+		"singularities": [
+			{
+				"pairedSingularity": "ParkourWhiteHole",
+				"uniqueID": "ParkourBlackHole",
+				"horizonRadius": 10.0,
+				"hasWarpEffects": true,
+				"renderQueueOverride": 2985,
+				"position": {},
+				"rename": "Parkour Black Hole"
+			},
+			{
+				"pairedSingularity": "parkourBlackHole",
+				"uniqueID": "ParkourWhiteHole",
+				"horizonRadius": 1.0,
+				"type": "whiteHole",
+				"hasWarpEffects": true,
+				"renderQueueOverride": 2985,
+				"rotation": {
+					"x": 56.4851036,
+					"y": 201.5298,
+					"z": 7.758499
+				},
+				"position": {
+					"x": 145.6307,
+					"y": 113.683617,
+					"z": 98.13088
+				},
+				"rename": "Parkour White Hole"
+			}
+		]
+	},
+	"ReferenceFrame": {},
+	"ShockEffect": {},
+	"Spawn": {
+		"playerSpawn": {
+			"startWithSuit": true,
+			"isDefault": true,
+			"alignRadial": true,
+			"position": {
+				"x": 142.232269,
+				"y": 116.468269,
+				"z": 85.97883
+			}
+		}
+	}
+}

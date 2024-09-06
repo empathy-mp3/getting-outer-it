@@ -1,0 +1,41 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "this star's pretty small",
+	"starSystem": "GettingOuterItSystem",
+	"Base": {
+		"centerOfSolarSystem": true,
+		"gravityFallOff": "linear",
+		"groundSize": 2.0,
+		"invulnerableToSun": true,
+		"surfaceGravity": 2.0,
+		"surfaceSize": 3.0
+	},
+	"MapMarker": {
+		"minDisplayDistanceOverride": -1.0,
+		"maxDisplayDistanceOverride": -1.0
+	},
+	"Orbit": {
+		"isStatic": true,
+		"orbitLineFadeEndDistance": -1.0,
+		"orbitLineFadeStartDistance": -1.0
+	},
+	"ReferenceFrame": {},
+	"Star": {
+		"lifespan": 120.0,
+		"lightTint": {
+			"r": 2,
+			"g": 2,
+			"b": 2,
+			"a": 0
+		},
+		"size": 4.0,
+		"tint": {
+			"r": 2,
+			"g": 2,
+			"b": 2,
+			"a": 0
+		},
+		"stellarDeathType": "default",
+		"stellarRemnantType": "default"
+	}
+}

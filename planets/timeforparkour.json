@@ -250,6 +250,7 @@
 					"y": 147.394333,
 					"z": 82.69249
 				},
+				"alignRadial": false,
 				"position": {
 					"x": 194.264618,
 					"y": 82.65341,
@@ -263,6 +264,7 @@
 					"y": 148.112518,
 					"z": 81.47588
 				},
+				"alignRadial": false,
 				"position": {
 					"x": 190.659637,
 					"y": 67.2670441,
@@ -276,6 +278,7 @@
 					"y": 118.669746,
 					"z": 9.810113
 				},
+				"alignRadial": false,
 				"position": {
 					"x": 187.071289,
 					"y": 73.1067657,
@@ -289,6 +292,7 @@
 					"y": 178.965744,
 					"z": 336.1344
 				},
+				"alignRadial": false,
 				"position": {
 					"x": 193.92514,
 					"y": 73.52881,
@@ -302,6 +306,7 @@
 					"y": 159.312744,
 					"z": 346.2655
 				},
+				"alignRadial": false,
 				"position": {
 					"x": 193.112335,
 					"y": 74.2162247,
@@ -315,6 +320,7 @@
 					"y": 168.213181,
 					"z": 337.476563
 				},
+				"alignRadial": false,
 				"position": {
 					"x": 195.999313,
 					"y": 72.5230942,
@@ -326,8 +332,9 @@
 				"rotation": {
 					"x": 349.995758,
 					"y": 260.465759,
-					"z": 22.1855373
+					"z": 22.18554
 				},
+				"alignRadial": false,
 				"position": {
 					"x": 202.24791,
 					"y": 50.29384,
@@ -341,6 +348,7 @@
 					"y": 271.602783,
 					"z": 16.5129375
 				},
+				"alignRadial": false,
 				"position": {
 					"x": 205.357574,
 					"y": 49.32758,
@@ -354,6 +362,7 @@
 					"y": 273.582733,
 					"z": 16.2695351
 				},
+				"alignRadial": false,
 				"position": {
 					"x": 208.97084,
 					"y": 48.8258667,
@@ -367,6 +376,7 @@
 					"y": 241.49353,
 					"z": 3.149701
 				},
+				"alignRadial": false,
 				"position": {
 					"x": 211.770538,
 					"y": 48.5911369,
@@ -380,6 +390,7 @@
 					"y": 271.763977,
 					"z": 358.677124
 				},
+				"alignRadial": false,
 				"position": {
 					"x": 218.282455,
 					"y": 48.6617622,
@@ -389,10 +400,11 @@
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
 				"rotation": {
-					"x": 19.9125042,
+					"x": 19.9125023,
 					"y": 193.307236,
 					"z": 11.3578205
 				},
+				"alignRadial": false,
 				"position": {
 					"x": 220.453964,
 					"y": 50.8322754,
@@ -402,10 +414,11 @@
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
 				"rotation": {
-					"x": 34.9694748,
+					"x": 34.96949,
 					"y": 192.194061,
-					"z": 23.00368
+					"z": 23.0036812
 				},
+				"alignRadial": false,
 				"position": {
 					"x": 221.07457,
 					"y": 55.8811,
@@ -415,10 +428,11 @@
 			{
 				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
 				"rotation": {
-					"x": 44.56443,
+					"x": 44.5644455,
 					"y": 211.928391,
 					"z": 61.18027
 				},
+				"alignRadial": false,
 				"position": {
 					"x": 223.967773,
 					"y": 62.27626,
@@ -432,10 +446,174 @@
 					"y": 273.289856,
 					"z": 149.853226
 				},
+				"alignRadial": false,
 				"position": {
 					"x": 235.217484,
 					"y": 83.3420944,
 					"z": 187.255
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector Quantum Pole Path/Fragment QuantumPolePath 2/Interactables_QPP2/Prefab_NOM_GravityCrystal",
+				"rotation": {
+					"x": 13.839406,
+					"y": 196.31134,
+					"z": 8.851773
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 219.160553,
+					"y": 49.056427,
+					"z": 160.36821
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_GravityCannon/Lighting_GravityCannon/Prefab_NOM_Doorway_Corner_BOTH",
+				"rotation": {
+					"x": 18.9787865,
+					"y": 102.339874,
+					"z": 41.6414223
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 218.949036,
+					"y": 62.92541,
+					"z": 180.2818
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_GravityCannon/Lighting_GravityCannon/Prefab_NOM_Doorway_Corner_BOTH",
+				"rotation": {
+					"x": 13.9565659,
+					"y": 108.057892,
+					"z": 43.26513
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 220.202087,
+					"y": 62.1749954,
+					"z": 180.373672
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_GravityCannon/Interactables_GravityCannon/Prefab_NOM_TractorBeam",
+				"rotation": {
+					"x": 28.554739,
+					"y": 162.100082,
+					"z": 220.5465
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 222.765411,
+					"y": 79.55535,
+					"z": 181.1004
+				}
+			},
+			{
+				"path": "RingWorld_Body/Sector_RingInterior/Sector_Zone2/Sector_ProjectionHouse_Zone2/Geo_ProjectionHouse_Zone2/Bridge_ProjectionHouse_Zone2_Intact",
+				"rotation": {
+					"x": 33.8633,
+					"y": 80.07285,
+					"z": 31.5069733
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 214.841034,
+					"y": 66.04842,
+					"z": 179.186417
+				}
+			},
+			{
+				"path": "RingWorld_Body/Sector_RingInterior/Sector_Zone2/Sector_ProjectionHouse_Zone2/Geo_ProjectionHouse_Zone2/Bridge_ProjectionHouse_Zone2_Intact",
+				"rotation": {
+					"x": 357.00766,
+					"y": 126.08387,
+					"z": 44.5669861
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 212.076157,
+					"y": 66.68419,
+					"z": 180.175842
+				}
+			},
+			{
+				"path": "RingWorld_Body/Sector_RingInterior/Sector_Zone2/Sector_ProjectionHouse_Zone2/Geo_ProjectionHouse_Zone2/Bridge_ProjectionHouse_Zone2_Intact",
+				"rotation": {
+					"x": 60.2196541,
+					"y": 279.287323,
+					"z": 47.7947121
+				},
+				"alignRadial": false,
+				"position": {
+					"x": 219.553391,
+					"y": 75.72754,
+					"z": 178.538971
+				}
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Interactables_Village/LaunchTower/Effects_HEA_Campfire",
+				"rotation": {
+					"x": 290.7544,
+					"y": 310.935181,
+					"z": 280.063477
+				},
+				"position": {
+					"x": 204.421219,
+					"y": 68.24642,
+					"z": 143.288742
+				}
+			},
+			{
+				"path": "BrittleHollow_Body/Sector_BH/Sector_QuantumFragment/Interactables_QuantumFragment/Surface_QRock_Shard/Prefab_NOM_Whiteboard (2)",
+				"rotation": {
+					"x": 354.541656,
+					"y": 340.434326,
+					"z": 115.29
+				},
+				"position": {
+					"x": 227.64151,
+					"y": 79.48666,
+					"z": 178.6244
+				}
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/Props_NOM_Transponder",
+				"rotation": {
+					"x": 280.300751,
+					"y": 218.7148,
+					"z": 302.1374
+				},
+				"position": {
+					"x": 225.169067,
+					"y": 76.2244,
+					"z": 178.083939
+				}
+			},
+			{
+				"path": "RingWorld_Body/Sector_RingInterior/Sector_Zone2/Sector_ProjectionHouse_Zone2/Geo_ProjectionHouse_Zone2/Bridge_ProjectionHouse_Zone2_Intact",
+				"rotation": {
+					"x": 5.36532974,
+					"y": 345.5369,
+					"z": 295.285858
+				},
+				"position": {
+					"x": 229.246323,
+					"y": 77.38073,
+					"z": 178.846008
+				}
+			},
+			{
+				"path": "CaveTwin_Body/Sector_CaveTwin/Sector_SouthHemisphere/Sector_EscapePod/Interactables_EscapePod/EscapePod_VisibleFrom_Far/DistressBeaconTransmitter/Props_NOM_Transponder",
+				"rotation": {
+					"x": 35.8217735,
+					"y": 303.568,
+					"z": 345.8894
+				},
+				"position": {
+					"x": 232.203842,
+					"y": 87.24836,
+					"z": 182.289459
 				}
 			}
 		],
